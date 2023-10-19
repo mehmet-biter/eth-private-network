@@ -14,7 +14,7 @@ You should have installed Docker and Docker Compose in your machine.
 
 ## Run
 ```bash
-git clone https://github.com/a1brz/eth-private-network.git
+git clone https://github.com/mehmet-biter/eth-private-network.git
 cd eth-private-network
 docker-compose up
 ```
